@@ -1,0 +1,4 @@
+CREATE TABLE `estado_partido` (
+  `ID_ESTADO` int(11) NOT NULL,
+  `NOMBRE_ESTADO` varchar(60) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
