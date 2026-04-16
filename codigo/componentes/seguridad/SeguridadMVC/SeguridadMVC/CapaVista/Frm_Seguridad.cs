@@ -422,7 +422,10 @@ namespace Capa_Vista_Seguridad
 
         private void entrenadorToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            CerrarFormulariosHijos();
+            Frm_Estado_Partido estado_Partido = new Frm_Estado_Partido();
+            estado_Partido.MdiParent = this;
+            estado_Partido.Show();
         }
 
         private void reportesToolStripMenuItem_Click(object sender, EventArgs e)

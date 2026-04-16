@@ -156,3 +156,4 @@ C:\PrototipoIS2P2026\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\Capa
 C:\PrototipoIS2P2026\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\bin\Debug\Capa_Controlador_Componente_Consultas_Simples.pdb
 C:\PrototipoIS2P2026\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\bin\Debug\Capa_Modelo_Componente_Consultas_Simples.pdb
 C:\PrototipoIS2P2026\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vista_Seguridad.csproj.CopyComplete
+C:\PrototipoIS2P2026\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vista_Seguridad.Frm_Estado_Partido.resources

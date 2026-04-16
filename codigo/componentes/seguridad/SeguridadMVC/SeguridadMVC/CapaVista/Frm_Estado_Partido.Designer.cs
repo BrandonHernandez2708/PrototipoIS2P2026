@@ -1,7 +1,7 @@
 ﻿
 namespace Capa_Vista_Seguridad
 {
-    partial class Frm_Perfiles
+    partial class Frm_Estado_Partido
     {
         /// <summary>
         /// Required designer variable.
@@ -36,8 +36,8 @@ namespace Capa_Vista_Seguridad
             // 
             this.navegador1.IPkId_Aplicacion = 0;
             this.navegador1.IPkId_Modulo = 0;
-            this.navegador1.Location = new System.Drawing.Point(17, 16);
-            this.navegador1.Margin = new System.Windows.Forms.Padding(5);
+            this.navegador1.Location = new System.Drawing.Point(2, -11);
+            this.navegador1.Margin = new System.Windows.Forms.Padding(4);
             this.navegador1.Name = "navegador1";
             this.navegador1.SAlias = null;
             this.navegador1.SEtiquetas = null;
@@ -45,16 +45,16 @@ namespace Capa_Vista_Seguridad
             this.navegador1.SNombreTabla = null;
             this.navegador1.TabIndex = 0;
             // 
-            // Frm_Perfiles
+            // Frm_Estado_Partido
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1565, 665);
+            this.ClientSize = new System.Drawing.Size(1558, 651);
             this.Controls.Add(this.navegador1);
-            this.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "Frm_Perfiles";
-            this.Text = "Perfiles";
+            this.MinimizeBox = false;
+            this.Name = "Frm_Estado_Partido";
+            this.ShowIcon = false;
+            this.Text = "Frm_Entrenador";
             this.ResumeLayout(false);
 
         }
