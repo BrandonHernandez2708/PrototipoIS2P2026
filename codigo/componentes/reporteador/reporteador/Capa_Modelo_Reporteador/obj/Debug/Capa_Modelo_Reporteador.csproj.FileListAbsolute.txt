@@ -1,0 +1,14 @@
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\Capa_Modelo_Reporteador.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\Capa_Modelo_Reporteador.pdb
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.Shared.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\obj\Debug\Capa_Modelo_Reporteador.csproj.AssemblyReference.cache
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\obj\Debug\Capa_Modelo_Reporteador.csproj.CoreCompileInputs.cache
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\obj\Debug\Capa_Modelo_Reporteador.csproj.CopyComplete
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\obj\Debug\Capa_Modelo_Reporteador.dll
+C:\is2k26pf\codigo\componentes\reporteador\reporteador\Capa_Modelo_Reporteador\obj\Debug\Capa_Modelo_Reporteador.pdb
